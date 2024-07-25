@@ -1,0 +1,4 @@
+1. System Design
+2. Coding with tutorial
+3. Understanding the code
+4. Refactoring
